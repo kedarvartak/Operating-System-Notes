@@ -23,8 +23,13 @@ This repository contains comprehensive lecture-wise notes on Operating Systems, 
    - Multi-processing OS
    - Distributed OS
    - Real-Time OS
+
+3. **Multitasking vs MultiProgramming vs MultiThreading**
+   - threads
+   - processes
+   - programs
    
-3. **Detailed Descriptions and Flow Diagrams**
+   **Detailed Descriptions and Flow Diagrams**
    - Each OS type is accompanied by a formal definition, layman explanation, and flowchart for quick reference.
    
 ## 📂 **Usage**

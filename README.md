@@ -28,6 +28,14 @@ This repository contains comprehensive lecture-wise notes on Operating Systems, 
    - threads
    - processes
    - programs
+
+4. **Components of OS - Userspace, Kernel and its types**
+   - Components of OS
+   - UserSpace
+   - Kernel
+   - Functions of Kernel
+   - Types of Kernel
+   - IPC
    
    **Detailed Descriptions and Flow Diagrams**
    - Each OS type is accompanied by a formal definition, layman explanation, and flowchart for quick reference.

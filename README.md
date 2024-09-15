@@ -36,6 +36,10 @@ This repository contains comprehensive lecture-wise notes on Operating Systems, 
    - Functions of Kernel
    - Types of Kernel
    - IPC
+
+5. **System Calls**
+   - System calls
+   - Types of system calls
    
    **Detailed Descriptions and Flow Diagrams**
    - Each OS type is accompanied by a formal definition, layman explanation, and flowchart for quick reference.
